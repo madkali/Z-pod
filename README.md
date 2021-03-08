@@ -1,4 +1,4 @@
-# AntennaPod
+# Z-pod
 
 This is the official radio from zdos, the easy-to-use, flexible and open-source podcast manager for Android.
 
